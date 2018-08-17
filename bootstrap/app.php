@@ -1,5 +1,6 @@
 <?php
 
+// 加载 composer
 require_once __DIR__.'/../vendor/autoload.php';
 
 try {
