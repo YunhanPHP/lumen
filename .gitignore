@@ -1,6 +1,7 @@
 /vendor/*
 !/vendor/autoload.php
 !/vendor/composer
+!/vendor/laravel/
 
 /.idea
 Homestead.json
